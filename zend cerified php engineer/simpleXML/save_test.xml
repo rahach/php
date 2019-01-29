@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<product>
+	<book id="1">
+	  <title>This is the title</title>
+	</book>
+	<book id="2">
+	  <title>Other title</title>
+	</book>	
+</product>
